@@ -4,7 +4,7 @@ use strict;
 use warnings;
 
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 
 1;
@@ -28,11 +28,13 @@ This bundle contains L<Class::Value> and all related distributions.
 
 =head1 CONTENTS
 
-Class::Value
-
 Class::Value::Contact
 
 Class::Value::Net
+
+Class::Value::SemanticAdapter
+
+Class::Value::URI
 
 =head1 TAGS
 
@@ -41,7 +43,7 @@ please use the C<classvaluebundle> tag.
 
 =head1 VERSION 
                    
-This document describes version 0.01 of L<Class::Value::Bundle>.
+This document describes version 0.02 of L<Class::Value::Bundle>.
 
 =head1 BUGS AND LIMITATIONS
 

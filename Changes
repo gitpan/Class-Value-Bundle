@@ -4,6 +4,14 @@ global:
 releases:
   - author: 'Marcel Gruenauer <marcel@cpan.org>'
     changes:
+      - set the version to 0.02
+      - fixed prefix used in bundle_by_dist_prefix
+      - updated t/perlcriticrc
+    date: 2007-11-21T18:21:21Z
+    tags: []
+    version: 0.02
+  - author: 'Marcel Gruenauer <marcel@cpan.org>'
+    changes:
       - original version
     date: 2007-11-19T13:31:27Z
     tags: []
